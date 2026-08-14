@@ -3,4 +3,6 @@ This is one.txt file.
   update data
   Second update 
 ami braching kortechi.
-added some new text
+
+added some text conflict
+
